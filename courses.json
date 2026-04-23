@@ -1,0 +1,38 @@
+{
+  "version": "1.0",
+  "updatedAt": "2025-04-23",
+  "courses": [
+    {
+      "id": "namhan-01",
+      "name": "남한산성 둘레길 1코스",
+      "region": "경기",
+      "subRegion": "광주시",
+      "lat": 37.4764,
+      "lng": 127.1916,
+      "gpxFile": "남한산성둘레길 1코스.gpx",
+      "imgUrl": "https://picsum.photos/id/1018/800/400",
+      "bookingUrl": "https://your-booking-page.com/namhan-01",
+      "difficulty": "초급",
+      "distanceKm": 7.2,
+      "durationMin": 180,
+      "elevationM": 450,
+      "tags": ["둘레길", "역사", "가족"]
+    },
+    {
+      "id": "minjuji-01",
+      "name": "민주지산 물한계곡-삼도봉",
+      "region": "충청",
+      "subRegion": "영동군",
+      "lat": 36.05,
+      "lng": 127.80,
+      "gpxFile": "민주지산_물한계곡-삼도봉.gpx",
+      "imgUrl": "https://picsum.photos/id/1036/800/400",
+      "bookingUrl": "https://your-booking-page.com/minjuji-01",
+      "difficulty": "중급",
+      "distanceKm": 12.4,
+      "durationMin": 300,
+      "elevationM": 1242,
+      "tags": ["계곡", "삼도봉", "여름"]
+    }
+  ]
+}
