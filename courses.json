@@ -1,5 +1,6 @@
 {
-  "version": "1.0",
+  "version": "2.0",
+  "description": "좌표/거리/고도/시간은 GPX 파일에서 자동 추출됩니다. 이 파일에는 수동 관리가 필요한 정보만 기록합니다.",
   "updatedAt": "2025-04-23",
   "courses": [
     {
@@ -7,112 +8,77 @@
       "name": "남한산성 둘레길 1코스",
       "region": "경기",
       "subRegion": "광주시",
-      "lat": 37.4764,
-      "lng": 127.1916,
       "gpxFile": "남한산성둘레길 1코스.gpx",
       "imgUrl": "https://picsum.photos/id/1018/800/400",
       "bookingUrl": "#",
       "difficulty": "초급",
-      "distanceKm": 7.2,
-      "durationMin": 180,
-      "elevationM": 450,
-      "tags": ["둘레길", "역사", "가족"]
+      "tags": ["둘레길", "역사"]
     },
     {
       "id": "minjuji-01",
       "name": "민주지산 물한계곡-삼도봉",
       "region": "충청",
       "subRegion": "영동군",
-      "lat": 36.05,
-      "lng": 127.80,
       "gpxFile": "track_20250413_084535_민주지산_물한계곡-삼도봉.gpx",
       "imgUrl": "https://picsum.photos/id/1036/800/400",
       "bookingUrl": "#",
       "difficulty": "중급",
-      "distanceKm": 12.4,
-      "durationMin": 300,
-      "elevationM": 1242,
-      "tags": ["계곡", "삼도봉", "여름"]
+      "tags": ["계곡", "삼도봉"]
     },
     {
       "id": "yeongju-begin",
       "name": "영주 비기너 트레킹",
       "region": "경상",
       "subRegion": "영주시",
-      "lat": 36.80,
-      "lng": 128.62,
       "gpxFile": "영주_비기너트레킹_초급자.gpx",
       "imgUrl": "https://picsum.photos/id/1043/800/400",
       "bookingUrl": "#",
       "difficulty": "초급",
-      "distanceKm": 5.8,
-      "durationMin": 150,
-      "elevationM": 280,
-      "tags": ["입문", "소백산", "봄"]
+      "tags": ["입문", "소백산"]
     },
     {
       "id": "yeongju-jarak",
       "name": "영주 자락길 초급자",
       "region": "경상",
       "subRegion": "영주시",
-      "lat": 36.82,
-      "lng": 128.60,
       "gpxFile": "영주_자락길_초급자.gpx",
       "imgUrl": "https://picsum.photos/id/1044/800/400",
       "bookingUrl": "#",
       "difficulty": "초급",
-      "distanceKm": 6.2,
-      "durationMin": 160,
-      "elevationM": 320,
-      "tags": ["자락길", "소백산", "가족"]
+      "tags": ["자락길", "소백산"]
     },
     {
       "id": "yeongju-azalea-high",
       "name": "영주 철쭉 상급자",
       "region": "경상",
       "subRegion": "영주시",
-      "lat": 36.88,
-      "lng": 128.52,
       "gpxFile": "영주_철쭉_상급자.gpx",
       "imgUrl": "https://picsum.photos/id/1050/800/400",
       "bookingUrl": "#",
       "difficulty": "고급",
-      "distanceKm": 18.2,
-      "durationMin": 480,
-      "elevationM": 1439,
-      "tags": ["철쭉", "소백산", "5월"]
+      "tags": ["철쭉", "소백산"]
     },
     {
       "id": "yeongju-azalea-mid",
       "name": "영주 철쭉 중상급자",
       "region": "경상",
       "subRegion": "영주시",
-      "lat": 36.87,
-      "lng": 128.53,
       "gpxFile": "영주_철쭉_중상급자.gpx",
       "imgUrl": "https://picsum.photos/id/1051/800/400",
       "bookingUrl": "#",
       "difficulty": "중급",
-      "distanceKm": 14.0,
-      "durationMin": 360,
-      "elevationM": 1200,
-      "tags": ["철쭉", "소백산", "5월"]
+      "tags": ["철쭉", "소백산"]
     },
     {
       "id": "ansan-01",
-      "name": "안산 코스",
-      "region": "경기",
-      "subRegion": "안산시",
-      "lat": 37.32,
-      "lng": 126.83,
+      "name": "안산 (서울 서대문구)",
+      "region": "서울",
+      "subRegion": "서대문구",
       "gpxFile": "ansan.gpx",
       "imgUrl": "https://picsum.photos/id/1035/800/400",
       "bookingUrl": "#",
       "difficulty": "초급",
-      "distanceKm": 6.5,
-      "durationMin": 160,
-      "elevationM": 310,
-      "tags": ["안산", "서해", "산책"]
+      "tags": ["서울근교", "산책"]
     }
   ]
 }
