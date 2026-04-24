@@ -1,6 +1,6 @@
 {
-  "version": "2.0",
-  "description": "좌표/거리/고도/시간은 GPX 파일에서 자동 추출됩니다. 이 파일에는 수동 관리가 필요한 정보만 기록합니다.",
+  "version": "2.1",
+  "description": "좌표/거리/고도/시간은 GPX 파일에서 자동 추출됩니다. 이 파일에는 수동 관리 항목만 기록합니다.",
   "updatedAt": "2025-04-23",
   "courses": [
     {
@@ -10,9 +10,20 @@
       "subRegion": "광주시",
       "gpxFile": "남한산성둘레길 1코스.gpx",
       "imgUrl": "https://picsum.photos/id/1018/800/400",
-      "bookingUrl": "#",
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
       "difficulty": "초급",
       "tags": ["둘레길", "역사"]
+    },
+    {
+      "id": "hansando-sungjeon",
+      "name": "한산도 이순신 승전길",
+      "region": "경상",
+      "subRegion": "통영시",
+      "gpxFile": "한산성 이순신 승전길.gpx",
+      "imgUrl": "https://picsum.photos/id/1015/800/400",
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
+      "difficulty": "초급",
+      "tags": ["이순신", "한산도", "역사"]
     },
     {
       "id": "minjuji-01",
@@ -21,7 +32,7 @@
       "subRegion": "영동군",
       "gpxFile": "track_20250413_084535_민주지산_물한계곡-삼도봉.gpx",
       "imgUrl": "https://picsum.photos/id/1036/800/400",
-      "bookingUrl": "#",
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
       "difficulty": "중급",
       "tags": ["계곡", "삼도봉"]
     },
@@ -32,7 +43,7 @@
       "subRegion": "영주시",
       "gpxFile": "영주_비기너트레킹_초급자.gpx",
       "imgUrl": "https://picsum.photos/id/1043/800/400",
-      "bookingUrl": "#",
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
       "difficulty": "초급",
       "tags": ["입문", "소백산"]
     },
@@ -43,7 +54,7 @@
       "subRegion": "영주시",
       "gpxFile": "영주_자락길_초급자.gpx",
       "imgUrl": "https://picsum.photos/id/1044/800/400",
-      "bookingUrl": "#",
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
       "difficulty": "초급",
       "tags": ["자락길", "소백산"]
     },
@@ -54,7 +65,7 @@
       "subRegion": "영주시",
       "gpxFile": "영주_철쭉_상급자.gpx",
       "imgUrl": "https://picsum.photos/id/1050/800/400",
-      "bookingUrl": "#",
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
       "difficulty": "고급",
       "tags": ["철쭉", "소백산"]
     },
@@ -65,7 +76,7 @@
       "subRegion": "영주시",
       "gpxFile": "영주_철쭉_중상급자.gpx",
       "imgUrl": "https://picsum.photos/id/1051/800/400",
-      "bookingUrl": "#",
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
       "difficulty": "중급",
       "tags": ["철쭉", "소백산"]
     },
@@ -76,9 +87,86 @@
       "subRegion": "서대문구",
       "gpxFile": "ansan.gpx",
       "imgUrl": "https://picsum.photos/id/1035/800/400",
-      "bookingUrl": "#",
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
       "difficulty": "초급",
       "tags": ["서울근교", "산책"]
+    },
+    {
+      "id": "mungyeong-stamina",
+      "name": "문경 대야산-조항산 종주 [경북백챌]",
+      "region": "경상",
+      "subRegion": "문경시",
+      "gpxFile": "6.경북백챌_문경_스테미(문경특산물판매장~월영대~대야산~조항산~궁기리~화산리).gpx",
+      "imgUrl": "https://picsum.photos/id/1019/800/400",
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
+      "difficulty": "고급",
+      "tags": ["경북백챌", "대야산", "종주"]
+    },
+    {
+      "id": "mungyeong-begin",
+      "name": "문경 선유동 탐방 [경북백챌]",
+      "region": "경상",
+      "subRegion": "문경시",
+      "gpxFile": "6.경북백챌_문경_초보(문경특산물판매장~벌바위~학유정~선유동~선유동교~운강이강년기념관).gpx",
+      "imgUrl": "https://picsum.photos/id/1020/800/400",
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
+      "difficulty": "초급",
+      "tags": ["경북백챌", "선유동", "가족"]
+    },
+    {
+      "id": "bonghwa-stamina",
+      "name": "봉화 옥돌봉-백두대간 종주 [경북백챌]",
+      "region": "경상",
+      "subRegion": "봉화군",
+      "gpxFile": "5.경북백챌_봉화_스테미(오전약수~박달령~옥돌봉~도래기재~구룡산임도~서벽~백두대간수목원).gpx",
+      "imgUrl": "https://picsum.photos/id/1025/800/400",
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
+      "difficulty": "고급",
+      "tags": ["경북백챌", "옥돌봉", "백두대간"]
+    },
+    {
+      "id": "bonghwa-begin",
+      "name": "봉화 금강송 산림욕 [경북백챌]",
+      "region": "경상",
+      "subRegion": "봉화군",
+      "gpxFile": "5.경북백챌_봉화_초보(오전약수~박달령~옥돌봉~주실령~금강소나무숲~백두대간수목원).gpx",
+      "imgUrl": "https://picsum.photos/id/1028/800/400",
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
+      "difficulty": "초급",
+      "tags": ["경북백챌", "금강송", "산림욕"]
+    },
+    {
+      "id": "yeoju-founding",
+      "name": "여주 뚜갈봉-성주봉-마감산 (창립기념)",
+      "region": "경기",
+      "subRegion": "여주시",
+      "gpxFile": "창립기념행사 산행팀(여주온천~뚜갈봉~성주봉~마감산~산림욕장).gpx",
+      "imgUrl": "https://picsum.photos/id/1032/800/400",
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
+      "difficulty": "중급",
+      "tags": ["창립기념", "여주", "종주"]
+    },
+    {
+      "id": "gombaeryeong-01",
+      "name": "곰배령 원점회귀",
+      "region": "강원",
+      "subRegion": "인제군",
+      "gpxFile": "곰배령_곰배골 원점회귀.gpx",
+      "imgUrl": "https://picsum.photos/id/1040/800/400",
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
+      "difficulty": "중급",
+      "tags": ["곰배령", "야생화", "점봉산"]
+    },
+    {
+      "id": "geumdaebong-01",
+      "name": "태백 금대봉 트레킹",
+      "region": "강원",
+      "subRegion": "태백시",
+      "gpxFile": "태백 금대봉 트레킹.gpx",
+      "imgUrl": "https://picsum.photos/id/1052/800/400",
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
+      "difficulty": "중급",
+      "tags": ["금대봉", "태백", "야생화"]
     }
   ]
 }
