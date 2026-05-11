@@ -1,0 +1,89 @@
+{
+  "regionKey": "gyeongsang",
+  "regionLabel": "경상",
+  "courses": {
+    "hansando-sungjeon": {
+      "gpxFile": "한산성 이순신 승전길.gpx",
+      "imgUrls": [
+        "https://picsum.photos/id/1015/800/500",
+        "https://picsum.photos/id/1016/800/500",
+        "https://picsum.photos/id/1017/800/500"
+      ],
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
+      "description": "한산도 대첩의 무대, 통영 앞바다를 굽어보며 걷는 역사 트레킹. 이순신 장군의 흔적을 따라 제승당, 한산정, 수루를 거치는 코스로 한 발 한 발 걸을 때마다 임진왜란의 역사가 살아납니다. 바다 전망이 시원하고 고도 부담이 적어 누구나 부담 없이 도전할 수 있습니다. 통영 여행과 묶어 1박 2일 일정으로 추천드립니다."
+    },
+    "yeongju-begin": {
+      "gpxFile": "영주_비기너트레킹_초급자.gpx",
+      "imgUrls": [
+        "https://picsum.photos/id/1043/800/500",
+        "https://picsum.photos/id/1045/800/500"
+      ],
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
+      "description": "트레킹을 처음 시작하시는 분들을 위한 입문 코스. 소백산 자락의 부드러운 임도와 숲길 위주로 구성되어 운동화를 신고도 충분히 걸을 수 있습니다. 부석사·소수서원 등 영주의 대표 관광지와 연계해 일정을 짤 수 있어 여행과 트레킹을 함께 즐기기 좋습니다."
+    },
+    "yeongju-jarak": {
+      "gpxFile": "영주_자락길_초급자.gpx",
+      "imgUrls": [
+        "https://picsum.photos/id/1044/800/500",
+        "https://picsum.photos/id/1046/800/500"
+      ],
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
+      "description": "소백산 자락을 따라 부드럽게 이어지는 자락길 코스. 큰 오르내림 없이 산허리를 둘러 걷는 길로, 가족 단위·시니어 트레커에게 특히 추천드립니다. 봄에는 산수유와 진달래, 가을에는 단풍이 길 위를 수놓습니다."
+    },
+    "yeongju-azalea-mid": {
+      "gpxFile": "영주_철쭉_중상급자.gpx",
+      "imgUrls": [
+        "https://picsum.photos/id/1051/800/500",
+        "https://picsum.photos/id/1054/800/500"
+      ],
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
+      "description": "5월 소백산 능선을 붉게 물들이는 철쭉을 만나는 중상급자 코스. 비로봉~연화봉 일대의 철쭉 군락을 가로지르며 한국에서 가장 아름다운 봄 풍경을 경험할 수 있습니다. 능선 종주가 포함되어 있어 보통 이상의 체력이 필요합니다."
+    },
+    "yeongju-azalea-high": {
+      "gpxFile": "영주_철쭉_상급자.gpx",
+      "imgUrls": [
+        "https://picsum.photos/id/1050/800/500",
+        "https://picsum.photos/id/1055/800/500",
+        "https://picsum.photos/id/1056/800/500"
+      ],
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
+      "description": "소백산 주능선 풀종주에 도전하는 상급자 전용 철쭉 코스. 비로봉(1,439m)을 정점으로 능선을 따라 펼쳐지는 핑크빛 철쭉 융단은 평생에 한 번은 봐야 할 풍경으로 손꼽힙니다. 거리·고도차 모두 만만치 않으므로 충분한 체력 훈련과 산행 경험이 필요합니다."
+    },
+    "mungyeong-begin": {
+      "gpxFile": "6.경북백챌_문경_초보(문경특산물판매장~벌바위~학유정~선유동~선유동교~운강이강년기념관).gpx",
+      "imgUrls": [
+        "https://picsum.photos/id/1020/800/500",
+        "https://picsum.photos/id/1021/800/500"
+      ],
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
+      "description": "경북 백두대간 챌린지 문경 구간의 입문 코스. 선유동 계곡을 따라 학유정, 선유동교를 거쳐 운강 이강년 기념관까지 걷는 평탄한 코스입니다. 의병장 이강년의 생가와 역사적 장소들을 만날 수 있어 의미가 더해집니다. 문경 특산물도 함께 즐길 수 있는 일석이조 코스."
+    },
+    "mungyeong-stamina": {
+      "gpxFile": "6.경북백챌_문경_스테미(문경특산물판매장~월영대~대야산~조항산~궁기리~화산리).gpx",
+      "imgUrls": [
+        "https://picsum.photos/id/1019/800/500",
+        "https://picsum.photos/id/1022/800/500"
+      ],
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
+      "description": "경북백두대간 챌린지 최강 난이도 종주 코스. 대야산(933m)과 조항산을 연결하는 능선 종주로, 거리·고도차·시간 모두 만만치 않습니다. 백두대간 트레커들에게는 꼭 통과해야 할 명품 구간이며, 능선에서 바라보는 백두대간의 장쾌한 풍광이 도전의 보상이 됩니다."
+    },
+    "bonghwa-begin": {
+      "gpxFile": "5.경북백챌_봉화_초보(오전약수~박달령~옥돌봉~주실령~금강소나무숲~백두대간수목원).gpx",
+      "imgUrls": [
+        "https://picsum.photos/id/1028/800/500",
+        "https://picsum.photos/id/1029/800/500"
+      ],
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
+      "description": "경북백두대간 챌린지 봉화 입문 코스. 오전약수에서 출발해 박달령, 옥돌봉, 주실령을 거쳐 천연 금강소나무 숲을 통과합니다. 마지막은 국립백두대간수목원에서 다양한 자생식물을 만나며 마무리됩니다. 가족 단위 자연학습 코스로도 손색이 없습니다."
+    },
+    "bonghwa-stamina": {
+      "gpxFile": "5.경북백챌_봉화_스테미(오전약수~박달령~옥돌봉~도래기재~구룡산임도~서벽~백두대간수목원).gpx",
+      "imgUrls": [
+        "https://picsum.photos/id/1025/800/500",
+        "https://picsum.photos/id/1026/800/500"
+      ],
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
+      "description": "경북백두대간 챌린지 봉화 종주 코스. 옥돌봉(1,242m)에서 도래기재, 구룡산 임도를 거쳐 백두대간수목원까지 약 20km의 본격 종주. 백두대간 능선을 발로 직접 밟으며 그 장엄함을 체감할 수 있는 코스입니다. 충분한 체력과 산행 경험이 필요합니다."
+    }
+  }
+}

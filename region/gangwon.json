@@ -1,0 +1,25 @@
+{
+  "regionKey": "gangwon",
+  "regionLabel": "강원",
+  "courses": {
+    "gombaeryeong-01": {
+      "gpxFile": "곰배령_곰배골 원점회귀.gpx",
+      "imgUrls": [
+        "https://picsum.photos/id/1040/800/500",
+        "https://picsum.photos/id/1041/800/500",
+        "https://picsum.photos/id/1042/800/500"
+      ],
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
+      "description": "한반도 야생화의 보고, 점봉산 곰배령(1,164m) 원점회귀 코스. 천연보호구역으로 지정되어 일일 입산 인원이 제한되는 특별한 곳입니다. 5~6월 야생화 군락, 9~10월 단풍이 절정이며 신비로운 원시림과 부드러운 능선이 어우러져 트레킹의 진수를 느낄 수 있습니다. 사전 예약이 필수이며 SW Tour 동반 산행으로 입산 절차를 편하게 진행할 수 있습니다."
+    },
+    "geumdaebong-01": {
+      "gpxFile": "태백 금대봉 트레킹.gpx",
+      "imgUrls": [
+        "https://picsum.photos/id/1052/800/500",
+        "https://picsum.photos/id/1053/800/500"
+      ],
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
+      "description": "태백 금대봉(1,418m)을 중심으로 한 야생화 천국 트레킹. 한강 발원지 검룡소와 가까운 이곳은 250여 종의 야생화 자생지로 유명합니다. 봄에는 얼레지·노루귀·바람꽃, 여름에는 모싯대·동자꽃이 능선을 수놓습니다. 부드러운 임도와 숲길 위주여서 고도에 비해 체력 부담이 적습니다."
+    }
+  }
+}

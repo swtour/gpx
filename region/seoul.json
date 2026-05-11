@@ -1,0 +1,15 @@
+{
+  "regionKey": "seoul",
+  "regionLabel": "서울",
+  "courses": {
+    "ansan-01": {
+      "gpxFile": "ansan.gpx",
+      "imgUrls": [
+        "https://picsum.photos/id/1035/800/500",
+        "https://picsum.photos/id/1037/800/500"
+      ],
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
+      "description": "서울 도심에서 가장 가까운 자연 트레킹 코스. 서대문구 안산(296m)은 가족 단위로 부담 없이 오를 수 있어 평일·주말 누구나 편하게 찾을 수 있는 코스입니다. 자락길은 휠체어·유모차도 다닐 수 있도록 정비되어 있고, 정상에서는 인왕산·북한산·남산이 한눈에 펼쳐집니다. 도심에서 30분만 이동하면 만나는 진짜 산림욕의 매력을 경험해 보세요."
+    }
+  }
+}

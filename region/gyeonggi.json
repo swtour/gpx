@@ -1,0 +1,25 @@
+{
+  "regionKey": "gyeonggi",
+  "regionLabel": "경기",
+  "courses": {
+    "namhan-01": {
+      "gpxFile": "남한산성둘레길 1코스.gpx",
+      "imgUrls": [
+        "https://picsum.photos/id/1018/800/500",
+        "https://picsum.photos/id/1019/800/500",
+        "https://picsum.photos/id/1015/800/500"
+      ],
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
+      "description": "유네스코 세계문화유산 남한산성을 따라 걷는 가장 인기 있는 둘레길 코스. 병자호란의 역사가 깃든 성곽길을 따라 우거진 숲길과 시원하게 트인 전망 포인트를 만날 수 있습니다. 코스 곳곳에 해설판이 설치되어 있어 아이들에게도 좋은 역사·자연 교육 코스입니다. 주말 가족 나들이로 가장 추천드리는 수도권 둘레길입니다."
+    },
+    "yeoju-founding": {
+      "gpxFile": "창립기념행사 산행팀(여주온천~뚜갈봉~성주봉~마감산~산림욕장).gpx",
+      "imgUrls": [
+        "https://picsum.photos/id/1032/800/500",
+        "https://picsum.photos/id/1033/800/500"
+      ],
+      "bookingUrl": "https://swtour14816.imweb.me/shop_view?idx=115",
+      "description": "여주온천에서 출발해 뚜갈봉, 성주봉, 마감산을 거쳐 산림욕장까지 이어지는 종주 코스. 여러 봉우리를 한 번에 즐길 수 있어 종주 입문자에게 적합합니다. 산행 후 여주온천에서 피로를 풀 수 있어 1박 2일 일정으로 잡으면 더 좋습니다. SW Tour 창립기념 산행으로 진행되어 의미가 깊은 코스입니다."
+    }
+  }
+}
